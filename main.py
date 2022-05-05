@@ -1,1 +1,1 @@
-#contenido principal
+# Contenido principal
